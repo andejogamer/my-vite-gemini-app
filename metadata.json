@@ -1,0 +1,6 @@
+{
+  "name": "AI Coding Tutor",
+  "description": "An interactive application that uses a team of specialized AIs to teach programming languages. A curriculum AI builds a roadmap, a teacher AI delivers lessons, and a background AI tracks mastery through quizzes and feedback.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
